@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "stroke": "#ff0000",
+          "stroke-width": 7,
+          "stroke-opacity": 1,
+          "mode": "drive",
+          "waypoints": "[{\"location\":[0.115134,43.836076],\"original_index\":0},{\"location\":[0.115305,43.839629],\"original_index\":1}]",
+          "units": "metric",
+          "distance": 675,
+          "distance_units": "meters",
+          "time": 59.2,
+          "legs": "[{\"distance\":675,\"time\":59.2,\"steps\":[{\"from_index\":0,\"to_index\":9,\"distance\":434,\"time\":31.272,\"instruction\":{\"text\":\"Drive north on Route de Bascous.\"}},{\"from_index\":9,\"to_index\":15,\"distance\":241,\"time\":27.928,\"instruction\":{\"text\":\"Turn right.\"}},{\"from_index\":15,\"to_index\":15,\"distance\":0,\"time\":0,\"instruction\":{\"text\":\"You have arrived at your destination.\"}}]}]"
+        },
+        "geometry": {
+          "type": "MultiLineString",
+          "coordinates": [[]]
+        }
+      }
+    ]
+  }
